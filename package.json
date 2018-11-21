@@ -1,10 +1,10 @@
 {
-  "name": "serve-static",
+  "name": "@earlyster/serve-static",
   "description": "Serve static files",
   "version": "1.11.1",
   "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
   "license": "MIT",
-  "repository": "expressjs/serve-static",
+  "repository": "earlyster/serve-static",
   "dependencies": {
     "encodeurl": "~1.0.1",
     "escape-html": "~1.0.3",
